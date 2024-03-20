@@ -1,4 +1,11 @@
-# Astro Starter Kit: Basics
+# Snap the project:
+Link: (https://astro-landing-page-tailwindcss.netlify.app/)
+
+
+
+
+
+## Created using: Astro Starter Kit: Basics
 
 ```sh
 npm create astro@latest -- --template basics
