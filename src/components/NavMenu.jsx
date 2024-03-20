@@ -109,7 +109,7 @@ const NavMenu = () => {
               leaveFrom="transform scale-100 opacity-100"
               leaveTo="transform scale-95 opacity-0"
             >
-              <Menu.Items className="absolute right-0 mt-4 w-[8rem] py-3 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none ">
+              <Menu.Items className="absolute mt-4 w-[8rem] py-3 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none ">
                 <Menu.Item>
                   {({ active }) => (
                     <a
